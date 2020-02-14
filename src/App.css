@@ -1,0 +1,36 @@
+body{
+  background:#c2c2af;
+}
+.APP{
+  background:#c2c2af;
+  
+}
+.search-form{
+  width:50%;
+  text-align: center;
+  margin: 0 auto 0 auto;
+}
+.foodGrid{
+  width: 100%;
+  margin: 0 30px;
+  display: inline-block;
+}
+.recipeItem{
+  font-size: 11px;
+  display: inline-block;
+  width: 300px;
+  margin: 20px 0px;
+}
+.recipeItem  img{
+  width:50%;
+  height: 50%;
+  margin:0 20px;
+}
+.rowItem {
+  display: inline-block;
+  
+  margin: 20px 0px;
+}
+hr{
+  width:100vw;
+}
